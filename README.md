@@ -41,6 +41,10 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
+$ npx prisma studio
+
+$ docker compose up test-db -d
+
 # production mode
 $ npm run start:prod
 ```
